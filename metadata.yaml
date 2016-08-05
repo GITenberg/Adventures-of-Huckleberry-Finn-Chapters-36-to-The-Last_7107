@@ -1,0 +1,39 @@
+_repo: Adventures-of-Huckleberry-Finn-Chapters-36-to-The-Last_7107
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+description: ''
+gutenberg_issued: '2004-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Race relations -- Fiction'
+- !lcsh 'Fugitive slaves -- Fiction'
+- !lcsh 'Missouri -- Fiction'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Mississippi River -- Fiction'
+- !lcsh 'Male friendship -- Fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Runaway children -- Fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Finn, Huckleberry (Fictitious character) -- Fiction'
+- !lcsh 'Humorous stories'
+- GITenberg
+title: Adventures of Huckleberry Finn, Chapters 36 to the Last
+url: http://www.gutenberg.org/ebooks/7107
